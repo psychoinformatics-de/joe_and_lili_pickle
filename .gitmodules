@@ -1,0 +1,4 @@
+[submodule "source/EI_clustered_network"]
+	path = source/EI_clustered_network
+	url = https://gin.g-node.org/nawrotlab/EI_clustered_network.git
+	datalad-url = https://gin.g-node.org/nawrotlab/EI_clustered_network.git
